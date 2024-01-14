@@ -1,0 +1,68 @@
+
+
+body {
+    background-color: #7b93a6;
+    text-align: center;
+    padding: 50px;
+}
+
+nav {
+    background: none;
+}
+
+#display-img {
+    height: 450px;
+    width: 100%;
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#reg-form {
+    text-align: left;
+    width: max-content;
+}
+
+    #reg-form h4 {
+        font-weight: 400;
+        margin: 15px 0;
+    }
+
+    #reg-form a {
+        display: block;
+        text-decoration: none;
+        margin-bottom: 40px;
+    }
+
+    #reg-form p {
+        margin-bottom: 0;
+    }
+
+h2 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.form-group {
+    width: 300px;
+}
+
+form button {
+    margin: 20px 0 10px 0;
+    width: 300px;
+    background-color: #95a2b2 !important;
+    border-color: #758481 !important;
+}
+
+.jumbotron {
+    padding: 40px 20px;
+}
+
+.jumbotron button {
+    background-color: #95a2b2 !important;
+    border-color: #758481 !important;
+}
